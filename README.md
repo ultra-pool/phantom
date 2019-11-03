@@ -1,3 +1,7 @@
+# The main Dev of this project hasn't updated nor commited anything in 6+ months. So i forked it and plan on keeping it updated as much as i can. This is will be a community project. So if you have more to add please feel free to to make PR's for it.
+
+Next big overhaul that I would like too see is to add DIP003 to this project.
+
 # Phantom-node Daemon
 
 Phantom nodes requires no static IP address, no copy of the blockchain, and no proof-of-service. As such, you can run a node on any IP address of your liking: `1.1.1.1` or `8.8.8.8` if you wish. Phantoms also support live hot-swap with currently running nodes, there is no need to re-queue.
