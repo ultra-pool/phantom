@@ -1,4 +1,4 @@
-# The main Dev of this project hasn't updated nor commited anything in 6+ months. So i forked it and plan on keeping it updated as much as i can. This is will be a community project. So if you have more to add please feel free to to make PR's for it.
+# The main Dev of this project hasn't updated nor commited anything in 6+ months. So i forked it and plan on keeping it updated as much as i can. This is will be a community project. So if you have more to add please feel free to make PR's for it.
 
 Next big overhaul that I would like too see is to add DIP003 to this project.
 
